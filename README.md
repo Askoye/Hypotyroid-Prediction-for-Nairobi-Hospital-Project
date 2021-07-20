@@ -1,7 +1,5 @@
-# IP_Core_Week_8
-# Hypotyroid Prediction for Nairobi Hospital : Supervised Learning IP
+# Hypotyroid Prediction for Nairobi Hospital : Supervised Learning - Week 8
 
-# Hypotyroid Prediction for Nairobi Hospital Project
 
 #### By **Ted Askoye Samuel**
 
