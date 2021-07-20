@@ -1,12 +1,12 @@
-# Hypotyroid Prediction for Nairobi Hospital : Supervised Learning - Week 8
+# Hypotyroid Prediction for Nairobi Hospital : Supervised Learning 
 
 
 #### By **Ted Askoye Samuel**
 
 ## Description
 Hypothyroidism is a condition in which the thyroid gland is not able to produce enough thyroid hormone. Since the main purpose of thyroid hormone is to "run the body's metabolism," it is understandable that people with this condition will have symptoms associated with a slow metabolism.
-* You are a Data Scientist working for Nairobi Hospital and have been tasked to study the factors that affect one's condition given information on the patients status over the past. 
-We are then to build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid..*
+* The task at hand is to study the factors that affect one's condition given information on the patients status over the past.*
+* We are then to build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid..*
 
 ## Experimental Design
 
